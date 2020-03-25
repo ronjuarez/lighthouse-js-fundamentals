@@ -28,4 +28,4 @@ const cars = [
 
 const speed = 38
 
-console.log(carPassing(cars, speed));
+carPassing(cars, speed);
